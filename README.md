@@ -2,9 +2,13 @@
 
 Extraction
 We are going to look at the demand for data scientists and the different skills desired based on datasets from data.world, Kaggle, and Indeed.
+
 Data Sets used:
+
 -Data Science Job Market in the US from Kaggle
+
 -Data Science Skills from data.world
+
 -Job Searches on Indeed
 
 Transformation
