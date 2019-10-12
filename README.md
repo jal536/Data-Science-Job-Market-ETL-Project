@@ -9,7 +9,7 @@ Data Sets used:
 
 -Data Science Skills from data.world
 
--Job Searches on Indeed
+-Job Search API on Indeed or Linkedin
 
 Transformation
 We will need to clean the data to look at the specific job titles relating to the skills desired overall, the locations, and the companies that use data science the most.
