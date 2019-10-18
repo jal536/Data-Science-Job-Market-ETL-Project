@@ -13,4 +13,8 @@ CREATE TABLE datascience_skill (
 CREATE TABLE location_distribution (
    state VARCHAR,
    percentage DEC
-)
+);
+
+SELECT * FROM datascience_location
+select * FROM datascience_skill
+SELECT * FROM location_distribution
